@@ -1,10 +1,10 @@
 - Hi there 👋 I'm Emma McLaughlin.
 - I am interested in using data-driven approaches to drive innovation and efficiency, especially in energy, infrastructure, and technology fields.
 - I am currently working as a graduate researcher in experimental nuclear and particle physics with day-to-day experience analyzing large-scale datasets using statistical/machine learning methods, developing Monte Carlo simulations and supporting project operations using data-driven insights.
-- A PDF version of my resume is available and contains similar information to this README
+- A PDF version of my resume is available [here](https://github.com/emclaughlin2/emclaughlin2/blob/main/Resume%20Dec%202025.pdf) and contains similar information to this README
 
 ## Graduate Research Assistant, Columbia University, 2021 – present
-- Led two task forces (4 and 8 scientists) to successful completion and [publication](https://journals.aps.org/prc/abstract/10.1103/h8d5-swg6) of 1-2 year long physics analyses with high-volume data using statistical/ML methods including work with highly correlated measurements and iterative Bayesian unfolding and Python, SQL, Pandas, C++, and the ROOT framework
+- Led two task forces (4 and 8 scientists) to award-winning [presentation](https://indico.cern.ch/event/1479384/contributions/6632181/attachments/3134704/5561588/IS25_flashtalk_Emma.pdf) and [publication](https://journals.aps.org/prc/abstract/10.1103/h8d5-swg6) of 1-2 year long physics analyses with high-volume data using statistical/ML methods including work with highly correlated measurements and iterative Bayesian unfolding and Python, SQL, Pandas, C++, and the ROOT framework
 - Updated sPHENIX Monte Carlo simulation, scripting and analysis integration codebases, including [low-level waveform reconstruction and analysis using least squares fit to a template function](https://github.com/emclaughlin2/sPHENIX-calorimeter-monitoring/blob/main/README_reconstruction_issues.md) and geometry updates, with optimizations for time complexity and scalability to 10s of billions of events
 
 ## Particle Physics Detector On-call Expert, sPHENIX Experiment, Brookhaven National Lab 2023 – present
