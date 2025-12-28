@@ -1,6 +1,6 @@
 - Hi there 👋 I'm Emma McLaughlin.
 - I am interested in using data-driven approaches to drive innovation and efficiency, especially in energy, infrastructure, and technology fields.
-- I am currently working as a graduate researcher in experimental nuclear and particle physics with day-to-day experience analyzing large-scale datasets using statistical/machine learning methods, developing Monte Carlo simulations and supporting project operations using data-driven insights.
+- I am currently working as a graduate researcher in experimental nuclear and particle physics with day-to-day experience analyzing large-scale datasets using statistical/machine learning methods, developing Monte Carlo simulations and supporting large capital project operations using data-driven insights.
 - A PDF version of my resume is available [here](https://github.com/emclaughlin2/emclaughlin2/blob/main/Resume%20Dec%202025.pdf) and contains similar information to this README
 
 ## Graduate Research Assistant, Columbia University, 2021 – present
