@@ -4,8 +4,8 @@
 - A PDF version of my resume is available [here](https://github.com/emclaughlin2/emclaughlin2/blob/main/Resume%20Dec%202025.pdf) and contains similar information to this README
 
 ## Graduate Research Assistant, Columbia University, 2021 – present
-- Led two task forces (4 and 8 scientists) to award-winning [presentation](https://indico.cern.ch/event/1479384/contributions/6632181/attachments/3134704/5561588/IS25_flashtalk_Emma.pdf) and [publication](https://journals.aps.org/prc/abstract/10.1103/h8d5-swg6) of 1-2 year long physics analyses with high-volume data using statistical/ML methods including work with highly correlated measurements and iterative Bayesian unfolding and Python, SQL, Pandas, C++, and the ROOT framework
-- Updated sPHENIX Monte Carlo simulation, scripting and analysis integration codebases, including [low-level waveform reconstruction and analysis using least squares fit to a template function](https://github.com/emclaughlin2/sPHENIX-calorimeter-monitoring/blob/main/README_reconstruction_issues.md) and geometry updates, with optimizations for time complexity and scalability to 10s of billions of events
+- Led two task forces (4 and 8 scientists) to award-winning [presentation](https://indico.cern.ch/event/1479384/contributions/6632181/attachments/3134704/5561588/IS25_flashtalk_Emma.pdf) and [publication](https://journals.aps.org/prc/abstract/10.1103/h8d5-swg6) of 1-2 year long physics analyses with high-volume data using statistical methods including work with iterative Bayesian unfolding and highly correlated measurements using Python, SQL, Pandas, C++, and the ROOT framework
+- Updated sPHENIX C++-based Monte Carlo simulation, scripting and analysis integration codebases, including [low-level waveform reconstruction and analysis using least squares fit to a template function](https://github.com/emclaughlin2/sPHENIX-calorimeter-monitoring/blob/main/README_reconstruction_issues.md) and geometry updates, with optimizations for time complexity and scalability to 10s of billions of events
 
 ## Particle Physics Detector On-call Expert, sPHENIX Experiment, Brookhaven National Lab 2023 – present
 - Built and maintain detector state [database logging and real-time monitoring data visualization](https://github.com/emclaughlin2/sPHENIX-calorimeter-monitoring/blob/main/README.md) using Python, PostgreSQL, and Grafana (3 years of continuous operation)
@@ -17,7 +17,7 @@
   
 ## NASA Space Apps Challenge Graduate Student Mentor, Barnard Computational Science Center 2025
 - Provided technical data analysis and creative guidance to undergraduate team using NASA Earth data
-- Scheduled workshop review of statistical and ML analysis techniques, including Iterative Proportional Fitting for sparse data, random forest and RNN models, and provided technical guidance for successful [random forest exoplanet classification project](https://github.com/madelinejmg/eXoxoAi/blob/main/README.md)
+- Scheduled workshop review of statistical and ML analysis techniques, including Iterative Proportional Fitting for sparse data, random forest and RNN models, and provided technical guidance for successful [random forest exoplanet classification project](https://github.com/madelinejmg/eXoxoAi/blob/main/README.md) using Python and sklearn
 
 ## Education
 - PhD Candidate in Physics, Expected graduation May 2026, Columbia University 
